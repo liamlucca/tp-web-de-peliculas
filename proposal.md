@@ -16,7 +16,7 @@
 Sistema de gestión de series y peliculas, donde el usuario pueda subir y eliminar audio-visuales de su autoría. Además, un usuario podría denunciar a otro seleccionando un motivo. Luego, un administrador se encargará de validar esa denuncia. 
 
 ### Modelo
-https://app.diagrams.net/#G16af4iugaq9fV1vGB6cZFufNQbk7T6Gk6#%7B%22pageId%22%3A%22Gt4zn1dlSZYR2Gbeyjmv%22%7D
+https://drive.google.com/file/d/16af4iugaq9fV1vGB6cZFufNQbk7T6Gk6/view?ts=69d6d6cd
 
 ## Alcance Funcional 
 
