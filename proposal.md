@@ -13,7 +13,7 @@
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+*Sistema de gestión de audio-visuales, donde el usuario pueda subir y eliminar películas y series de su autoría. *
 
 ### Modelo
 ![imagen del modelo]()
