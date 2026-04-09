@@ -34,11 +34,11 @@ Regularidad:
 
 
 Adicionales para Aprobación<br>
-"VAMOS A TENER QUE PREGUNTARLE AL PROFE SI CON LO DE ARRIBA YA ESTA O TENEMOS QUE PONER ALGO ACA"
+
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Audiovisual<br>2. CRUD Tipo Reporte<br>3. CRUD Denuncia<br>4. CRUD Usuario<br>5. CRUD Administrador<br>6. CRUD Espectador<br>7. CRUD Cliente<br>8. CRUD Apelación<br>9. CRUD VER MAS TARDE<br>10. CRUD Reseña|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CUU/Epic|"VAMOS A TENER QUE PREGUNTARLE AL PROFE SI CON LO DE ARRIBA YA ESTA O TENEMOS QUE PONER ALGO ACA"|
 
 
 ### Alcance Adicional Voluntario
