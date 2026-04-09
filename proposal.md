@@ -33,7 +33,7 @@ Regularidad:
 |CUU/Epic|1. Agregar a “Ver Más Tarde” un Audiovisual<br>2. Buscar los datos de una Denuncia<br>3. Hacer valoración “Me gusta” “No Me gusta”|
 
 
-Adicionales para Aprobación
+Adicionales para Aprobación<br>
 "VAMOS A TENER QUE PREGUNTARLE AL PROFE SI CON LO DE ARRIBA YA ESTA O TENEMOS QUE PONER ALGO ACA"
 |Req|Detalle|
 |:-|:-|
