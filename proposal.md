@@ -27,10 +27,10 @@ https://drive.google.com/file/d/16af4iugaq9fV1vGB6cZFufNQbk7T6Gk6/view?ts=69d6d6
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad|
-|CRUD dependiente|1. CRUD Habitación {depende de} CRUD Tipo Habitacion<br>2. CRUD Cliente {depende de} CRUD Localidad|
-|Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
+|CRUD simple|1. CRUD Audiovisual<br>2. CRUD Tipo Reporte<br>3. CRUD Denuncia<br>4. CRUD Usuario|
+|CRUD dependiente|1. CRUD Administrador {depende de} CRUD Usuario<br>2. CRUD Espectador {depende de} CRUD Usuario<br>3. CRUD Apelación {depende de} CRUD Denuncia|
+|Listado<br>+<br>detalle| 1.Listado de contenidos Audiovisuales que tengan cierta categoría deseada o que coincidan parcialmente en nombre con el elemento buscado<br> 2. Listado de datos filtrados por id de denuncia, muestra nombre del usuario reportado, nombre del Audiovisual y los motivos de la misma = > detalle muestra datos denuncia|
+|CUU/Epic|1. Agregar a “Ver Más Tarde” un Audiovisual<br>2. Buscar los datos de una Denuncia<br>3. Hacer valoración “Me gusta” “No Me gusta”|
 
 
 Adicionales para Aprobación
