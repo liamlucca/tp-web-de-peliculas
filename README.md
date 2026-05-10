@@ -1,6 +1,7 @@
 # TP DSW
-tags: #dsw #tp
+[IR A LA PROPUESTA](/proposal.md)
 
+tags: #dsw #tp
 Status: draft
 
 ## 1. Objetivo
