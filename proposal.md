@@ -7,8 +7,9 @@
 * 54720 - Lucca, Liam Santiago
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [diseño](https://app.diagrams.net/#G1eFO_b5KQ9T8M1xZn47CeNbCgubCR8u94)
+* [frontend app](https://github.com/liamlucca/cineweb-frontend)
+* [backend app](https://github.com/EduardoMarino73/TP-BackEnd)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
