@@ -42,7 +42,7 @@ Adicionales para Aprobación<br>
 
 ### Alcance Adicional Voluntario
 
-*Nota*: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
+*Nota*: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo. [FALTARIA COMPLETAR ESTO AL FINAL]
 
 |Req|Detalle|
 |:-|:-|
