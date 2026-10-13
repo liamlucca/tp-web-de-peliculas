@@ -1,5 +1,5 @@
 # TP DSW
-### [--> IR A LA PROPUESTA <--](/proposal.md)
+### [--> PROPOSAL <--](/proposal.md)
 
 tags: #dsw #tp
 Status: draft
