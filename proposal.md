@@ -13,9 +13,8 @@
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ### Pull requests
-<!-- Completar con los links reales cuando se abran los PR -->
-* Frontend: _(link pendiente)_
-* Backend: _(link pendiente)_
+* Frontend: https://github.com/liamlucca/cineweb-frontend/pull/2
+* Backend: https://github.com/EduardoMarino73/TP-BackEnd/pull/7
 
 ## Tema
 ### Descripción
