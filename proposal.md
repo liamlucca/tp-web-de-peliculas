@@ -14,7 +14,7 @@
 
 ### Pull requests
 * Frontend: https://github.com/liamlucca/cineweb-frontend/pull/2
-* Backend: https://github.com/EduardoMarino73/TP-BackEnd/pull/7
+* Backend: https://github.com/EduardoMarino73/TP-BackEnd/pull/8
 
 ## Topic
 ### Description
@@ -55,4 +55,4 @@ Additional for Approval<br>
 |Other|1. Thumbnail and duration of each video read in the browser when it is uploaded; optional cover for series<br>2. Logical delete of movies, series, seasons and episodes|
 
 ### Technical notes
-* The backend's persistence uses the Repository pattern with `mysql2` and SQL instead of an ORM (team decision).
+* The backend's persistence uses the MikroORM 6 ORM over MySQL: the entities are mapped to the tables of `init.sql` and accessed through repositories.
