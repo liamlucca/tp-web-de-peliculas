@@ -10,18 +10,13 @@
 * [design](https://app.diagrams.net/#G1eFO_b5KQ9T8M1xZn47CeNbCgubCR8u94)
 * [frontend app](https://github.com/liamlucca/cineweb-frontend)
 * [backend app](https://github.com/EduardoMarino73/TP-BackEnd)
-*Note*: if you use a monorepo, give a single link to the fullstack app.
-
-### Pull requests
-* Frontend: https://github.com/liamlucca/cineweb-frontend/pull/2
-* Backend: https://github.com/EduardoMarino73/TP-BackEnd/pull/8
 
 ## Topic
 ### Description
 A management system for series and movies, where users can upload and delete audiovisual content they authored, watch it, rate it with "Like" / "Dislike" and save it to "Watch later". A user can also report audiovisual content by choosing a reason from a catalog; when a piece of content gathers 3 reports a case opens, which the content's owner can appeal. Then an administrator reviews the appeal: if it is rejected, the content is suspended.
 
-### Model
-https://drive.google.com/file/d/16af4iugaq9fV1vGB6cZFufNQbk7T6Gk6/view?usp=sharing
+### Domain Model
+https://drive.google.com/file/d/1oBY5b4TipfdDnN9udF6DHBaeBMwL2Vp0/view
 
 ## Functional Scope
 
