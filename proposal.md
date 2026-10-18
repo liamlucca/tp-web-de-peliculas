@@ -16,7 +16,7 @@
 A management system for series and movies, where users can upload and delete audiovisual content they authored, watch it, rate it with "Like" / "Dislike" and save it to "Watch later". A user can also report audiovisual content by choosing a reason from a catalog; when a piece of content gathers 3 reports a case opens, which the content's owner can appeal. Then an administrator reviews the appeal: if it is rejected, the content is suspended.
 
 ### Domain Model
-https://drive.google.com/file/d/1oBY5b4TipfdDnN9udF6DHBaeBMwL2Vp0/view
+https://drive.google.com/drive/folders/14bc6kpSsVA3V-S_P732Q5_EdPq-ROFwq?usp=sharing
 
 ## Functional Scope
 
