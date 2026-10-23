@@ -10,7 +10,7 @@ For the project description, team members, repositories, domain model, and funct
 
 - **Frontend:** https://github.com/liamlucca/cineweb-frontend
 - **Backend:** https://github.com/EduardoMarino73/TP-BackEnd
-- **Project Proposal:** PONER LINK A PROPOSAL
+- **Project Proposal:** https://github.com/liamlucca/tp-web-de-peliculas/blob/main/proposal.md
 
 ## 3. Installation and Execution
 
