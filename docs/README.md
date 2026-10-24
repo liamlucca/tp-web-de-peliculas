@@ -24,11 +24,21 @@ See [Team Coordination and Project Progress](minutas.md) for information about t
 
 See [Task and Issue Tracking](seguimiento.md) for information about collaborative development, tasks, and issues identified during implementation.
 
-## 6. Pull Requests
+## 6. Development History
+
+This section highlights important commits that document the project's development progress and the team's contributions.
 
 ### Backend
 
-- [Pull Request #7](https://github.com/EduardoMarino73/TP-BackEnd/pull/7)
+- [Movie CRUD implementation](https://github.com/EduardoMarino73/TP-BackEnd/commit/66140e5) — Implemented the main CRUD operations for movies.
+- [Database migration to MySQL](https://github.com/EduardoMarino73/TP-BackEnd/commit/71594c7) — Adapted the backend to use the MySQL database instead of MongoDB.
+- [Backend branch integration](https://github.com/EduardoMarino73/TP-BackEnd/commit/a1d7e76) — Integrated Eduardo's branch into Liam's branch.
+- - [Pull Request #7](https://github.com/EduardoMarino73/TP-BackEnd/pull/7)
+
+### Frontend
+
+- Add links to important frontend commits documenting major features, improvements, and integration work.
+
 
 ### Frontend
 
