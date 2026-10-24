@@ -46,7 +46,36 @@ This section highlights important commits that document the project's developmen
 
 ### Frontend
 
-Frontend commits and pull requests documenting major features, improvements, and integration work will be added here.
+The following commits highlight important milestones in the development of the CineWeb frontend.
+
+1. **[Initial Project Structure](https://github.com/liamlucca/cineweb-frontend/commit/94c8558851e326d55204c6ad7bc0cb430053102b)** — Established the initial project structure.
+
+2. **[Fetching Movies from the Backend](https://github.com/liamlucca/cineweb-frontend/commit/75132696bd416900ba7ffe0e2970d30daf9fd03d)** — Implemented the retrieval of movie data from the backend.
+
+3. **[Authentication Context and Protected Routes](https://github.com/liamlucca/cineweb-frontend/commit/1b10c010c33939197d3d269ae3b05371546b79b1)** — Added authentication context, the `useAuth` hook, and protected routes.
+
+4. **[Login and Registration Forms](https://github.com/liamlucca/cineweb-frontend/commit/6b011fdfe3d9acfb48884d573ae8d54304966436)** — Connected the login and registration forms to the authentication service.
+
+5. **[Authentication Unit Tests](https://github.com/liamlucca/cineweb-frontend/commit/6c648a17ecec36f192dd830d365cde3b40c43a03)** — Added unit tests for `ProtectedRoute` and `AuthPage` using Vitest.
+
+6. **[Content Catalog Design](https://github.com/liamlucca/cineweb-frontend/commit/f15596964ea02d648d18d840f712f2efa4239d0f)** — Presented the content catalog using cards, thumbnails, a featured banner, and carousels.
+
+7. **[Series Integration](https://github.com/liamlucca/cineweb-frontend/commit/2bfd7815a35782d72ec2d8f1cf6db7535c0339b3)** — Connected the series pages to the backend through `seriesService`.
+
+8. **[Series Upload Page](https://github.com/liamlucca/cineweb-frontend/commit/e6d136a055b242867e60a923b85e6f9d1044fd2e)** — Added forms for uploading series, seasons, and episodes.
+
+9. **[Watch Later Feature](https://github.com/liamlucca/cineweb-frontend/commit/7a56752f0433921a8d9ccb91135ae4462087b0b0)** — Added controls to save movies and series for later viewing, along with a dedicated list page.
+
+10. **[Audiovisual Reporting](https://github.com/liamlucca/cineweb-frontend/commit/a374eb187971a49753e725633c60e5990e0f98a9)** — Implemented the submission of reports for movies and series.
+
+11. **[Administration Page](https://github.com/liamlucca/cineweb-frontend/commit/c59b94110f115f3d0b944c0207b9bc26feb24582)** — Added an administration interface for managing pending appeals and accounts.
+
+12. **[Backend User Authentication Integration](https://github.com/liamlucca/cineweb-frontend/commit/a5fc3c1d4be790657b7d4ea8ddb9c237d65a5573)** — Connected login and registration to the backend's `/api/users` endpoints.
+
+### Frontend Pull Requests
+
+- [Pull Request #1](https://github.com/liamlucca/cineweb-frontend/pull/1)
+- [Pull Request #2](https://github.com/liamlucca/cineweb-frontend/pull/2)
 
 ## 7. Project Proposal
 
